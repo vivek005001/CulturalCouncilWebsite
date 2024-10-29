@@ -1,0 +1,62 @@
+[
+  {
+    "name": "ABCD 4.0",
+    "description": "As we told earlier that we’re gearing up for ABCD , and we want you in on the action! 🎉",
+    "date": "August 31, 2024",
+    "time": "06:00 PM Onwards",
+    "venue": "A11 1A",
+    "imageUrl": "/assets/images/test_event_poster.png",
+    "registrationLink": "https://example.com/registration",
+    "clubLogoUrl": "/assets/images/CCLogo.png"
+  },
+  {
+    "name": "ABCD 4.0",
+    "description": "abcd is dope abcd is dope...",
+    "date": "August 31, 2024",
+    "time": "10:00 PM Onwards",
+    "venue": "A11 1A",
+    "imageUrl": "/assets/images/test_event_poster.png",
+    "registrationLink": "https://example.com/registration",
+    "clubLogoUrl": "/assets/images/CCLogo.png"
+  },
+  {
+    "name": "ABCD 4.0",
+    "description": "abcd is dope abcd is dope...",
+    "date": "August 31, 2024",
+    "time": "10:00 PM Onwards",
+    "venue": "A11 1A",
+    "imageUrl": "/assets/images/test_event_poster.png",
+    "registrationLink": "https://example.com/registration",
+    "clubLogoUrl": "/assets/images/CCLogo.png"
+  },
+  {
+    "name": "ABCD 4.0",
+    "description": "abcd is dope abcd is dope...",
+    "date": "August 31, 2024",
+    "time": "10:00 PM Onwards",
+    "venue": "A11 1A",
+    "imageUrl": "/assets/images/test_event_poster.png",
+    "registrationLink": "https://example.com/registration",
+    "clubLogoUrl": "/assets/images/CCLogo.png"
+  },
+  {
+    "name": "ABCD 4.0",
+    "description": "abcd is dope abcd is dope...",
+    "date": "August 31, 2024",
+    "time": "10:00 PM Onwards",
+    "venue": "A11 1A",
+    "imageUrl": "/assets/images/test_event_poster.png",
+    "registrationLink": "https://example.com/registration",
+    "clubLogoUrl": "/assets/images/CCLogo.png"
+  },
+  {
+    "name": "ABCD 4.0",
+    "description": "abcd is dope abcd is dope...",
+    "date": "August 31, 2024",
+    "time": "10:00 PM Onwards",
+    "venue": "A11 1A",
+    "imageUrl": "/assets/images/test_event_poster.png",
+    "registrationLink": "https://example.com/registration",
+    "clubLogoUrl": "/assets/images/CCLogo.png"
+  }
+]

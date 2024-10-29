@@ -1,0 +1,27 @@
+[
+    {
+      "title": "HTML",
+      "description": "Some Text about HTML."
+    },
+    {
+      "title": "CSS",
+      "description": "Some Text about CSS."
+    },
+    {
+      "title": "JavaScript",
+      "description": "Some Text about JavaScript."
+    },
+    {
+        "title": "JavaScript",
+        "description": "Some Text about JavaScript."
+      },
+      {
+        "title": "JavaScript",
+        "description": "Some Text about JavaScript."
+      },
+      {
+        "title": "JavaScript",
+        "description": "Some Text about JavaScript."
+      }
+  ]
+  

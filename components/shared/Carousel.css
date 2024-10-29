@@ -1,0 +1,27 @@
+.carousel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+    transition: all;
+  }
+
+  .carousel-images {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+  }
+  
+  .carousel-image {
+    position: absolute;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .carousel-image img {
+    border-radius: 50%;
+    object-fit: cover;
+    transition: transform 0.5s ease-in-out;
+  }
